@@ -12,9 +12,9 @@ public class V1_2_43 {
             data = new BlackInfo();
             data.version = 1243;
             data.known = new LinkedList<BlackInfo.BlockItem>() {{
+                add(new BlackInfo.BlockItem(-2262244760619952081L, "java.net.URL"));
             }};
             data.unknown = new LinkedList<BlackInfo.BlockItem>() {{
-                add(new BlackInfo.BlockItem(-2262244760619952081L, ""));
             }};
         }
         return data;

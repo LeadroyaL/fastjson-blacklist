@@ -23,10 +23,13 @@ public class V1_2_42 {
                 add(new BlackInfo.BlockItem(-2364987994247679115L, "org.apache.commons.collections.Transformer"));
                 add(new BlackInfo.BlockItem(-1872417015366588117L, "org.codehaus.groovy.runtime"));
                 add(new BlackInfo.BlockItem(-254670111376247151L, "java.lang.Thread"));
+                add(new BlackInfo.BlockItem(-190281065685395680L, "javax.net."));
                 add(new BlackInfo.BlockItem(313864100207897507L, "com.mchange"));
                 add(new BlackInfo.BlockItem(1203232727967308606L, "org.apache.wicket.util"));
+                add(new BlackInfo.BlockItem(1502845958873959152L, "java.util.jar."));
                 add(new BlackInfo.BlockItem(3547627781654598988L, "org.mozilla.javascript"));
                 add(new BlackInfo.BlockItem(3730752432285826863L, "java.rmi"));
+                add(new BlackInfo.BlockItem(3794316665763266033L, "java.util.prefs."));
                 add(new BlackInfo.BlockItem(4147696707147271408L, "com.sun."));
                 add(new BlackInfo.BlockItem(5347909877633654828L, "java.util.logging."));
                 add(new BlackInfo.BlockItem(5450448828334921485L, "org.apache.bcel"));
@@ -38,10 +41,7 @@ public class V1_2_42 {
                 add(new BlackInfo.BlockItem(8838294710098435315L, "org.apache.myfaces.context.servlet"));
             }};
             data.unknown = new LinkedList<BlackInfo.BlockItem>() {{
-                add(new BlackInfo.BlockItem(-190281065685395680L, ""));
                 add(new BlackInfo.BlockItem(33238344207745342L, ""));
-                add(new BlackInfo.BlockItem(1502845958873959152L, ""));
-                add(new BlackInfo.BlockItem(3794316665763266033L, ""));
             }};
         }
         return data;
