@@ -23,10 +23,10 @@ public class V1_2_46 {
                 add(new BlackInfo.BlockItem(-1589194880214235129L, "org.jdom."));
                 add(new BlackInfo.BlockItem(1073634739308289776L, "org.slf4j."));
                 add(new BlackInfo.BlockItem(5688200883751798389L, "javassist."));
+                add(new BlackInfo.BlockItem(7017492163108594270L, "oracle.net"));
                 add(new BlackInfo.BlockItem(8389032537095247355L, "org.jaxen."));
             }};
             data.unknown = new LinkedList<BlackInfo.BlockItem>() {{
-                add(new BlackInfo.BlockItem(7017492163108594270L, ""));
             }};
         }
         return data;

@@ -89,6 +89,7 @@ public class Main {
 | 1.2.46 | -1589194880214235129 | org.jdom. |
 | 1.2.46 | 1073634739308289776 | org.slf4j. |
 | 1.2.46 | 5688200883751798389 | javassist. |
+| 1.2.46 | 7017492163108594270 | oracle.net |
 | 1.2.46 | 8389032537095247355 | org.jaxen. |
 | 1.2.48 | 1459860845934817624 | java.net.InetAddress |
 | 1.2.48 | 8409640769019589119 | java.lang.Class |
@@ -101,4 +102,7 @@ public class Main {
 | version | hash | name |
 |---|---|---|
 | 1.2.42 | 33238344207745342    |  |
-| 1.2.46 | 7017492163108594270 |  |
+
+### 感谢补充
+
+- @UUUUnotfound [https://github.com/LeadroyaL/fastjson-blacklist/issues/1](https://github.com/LeadroyaL/fastjson-blacklist/issues/1)
