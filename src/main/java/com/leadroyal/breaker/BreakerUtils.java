@@ -78,6 +78,8 @@ public class BreakerUtils {
             for (BlackInfo.BlockItem item : info.unknown)
                 unknownList.add(item.hash);
         for (String keyword : keywords) {
+            if(keyword.length() < 3)
+                continue;
             final long h3 = (((((BASIC ^ keyword.charAt(0))
                     * PRIME)
                     ^ keyword.charAt(1))
