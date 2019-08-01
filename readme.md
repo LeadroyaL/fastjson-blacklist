@@ -94,6 +94,9 @@ public class Main {
 | 1.2.48 | 1459860845934817624 | java.net.InetAddress |
 | 1.2.48 | 8409640769019589119 | java.lang.Class |
 | 1.2.49 | 4904007817188630457 | com.alibaba.fastjson.annotation |
+| 1.2.59 | 5100336081510080343 | org.apache.cxf.jaxrs.provider. |
+| 1.2.59 | 6456855723474196908 | ch.qos.logback. |
+| 1.2.59 | 8537233257283452655 | net.sf.ehcache.transaction.manager. |
 
 
 
@@ -106,3 +109,4 @@ public class Main {
 ### 感谢补充
 
 - @UUUUnotfound [https://github.com/LeadroyaL/fastjson-blacklist/issues/1](https://github.com/LeadroyaL/fastjson-blacklist/issues/1)
+- @nanolikeyou [https://github.com/LeadroyaL/fastjson-blacklist/pull/2](https://github.com/LeadroyaL/fastjson-blacklist/pull/2)

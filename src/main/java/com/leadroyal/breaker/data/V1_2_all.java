@@ -24,5 +24,6 @@ public class V1_2_all {
         add(V1_2_56.getData());
         add(V1_2_57.getData());
         add(V1_2_58.getData());
+        add(V1_2_59.getData());
     }};
 }
