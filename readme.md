@@ -97,6 +97,7 @@ public class Main {
 | 1.2.59 | 5100336081510080343 | org.apache.cxf.jaxrs.provider. |
 | 1.2.59 | 6456855723474196908 | ch.qos.logback. |
 | 1.2.59 | 8537233257283452655 | net.sf.ehcache.transaction.manager. |
+| 1.2.60 | 3688179072722109200 | com.zaxxer.hikari. |
 
 
 
