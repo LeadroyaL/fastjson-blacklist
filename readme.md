@@ -98,6 +98,8 @@ public class Main {
 | 1.2.59 | 6456855723474196908 | ch.qos.logback. |
 | 1.2.59 | 8537233257283452655 | net.sf.ehcache.transaction.manager. |
 | 1.2.60 | 3688179072722109200 | com.zaxxer.hikari. |
+| 1.2.61 | 99147092142056280 | oracle.jdbc.connector.OracleManagedConnectionFactory |
+| 1.2.61 | 8925522461579647174 | org.apache.commons.configuration.JNDIConfiguration |
 
 
 
@@ -111,3 +113,4 @@ public class Main {
 
 - @UUUUnotfound [https://github.com/LeadroyaL/fastjson-blacklist/issues/1](https://github.com/LeadroyaL/fastjson-blacklist/issues/1)
 - @nanolikeyou [https://github.com/LeadroyaL/fastjson-blacklist/pull/2](https://github.com/LeadroyaL/fastjson-blacklist/pull/2)
+- @nanolikeyou [https://github.com/LeadroyaL/fastjson-blacklist/issues/3](https://github.com/LeadroyaL/fastjson-blacklist/issues/3)
