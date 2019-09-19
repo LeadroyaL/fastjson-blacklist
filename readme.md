@@ -98,7 +98,14 @@ public class Main {
 | 1.2.59 | 6456855723474196908 | ch.qos.logback. |
 | 1.2.59 | 8537233257283452655 | net.sf.ehcache.transaction.manager. |
 | 1.2.60 | 3688179072722109200 | com.zaxxer.hikari. |
+| 1.2.61 | -4401390804044377335 | flex.messaging.util.concurrent.AsynchBeansWorkManagerExecutor |
+| 1.2.61 | -1650485814983027158 | org.apache.openjpa.ee. |
+| 1.2.61 | -1251419154176620831 | oracle.jdbc.rowset.OracleJDBCRowSet |
+| 1.2.61 | -9822483067882491 | com.mysql.cj.jdbc.admin. |
 | 1.2.61 | 99147092142056280 | oracle.jdbc.connector.OracleManagedConnectionFactory |
+| 1.2.61 | 3114862868117605599 | org.apache.ibatis.parsing. |
+| 1.2.61 | 4814658433570175913 | org.apache.axis2.jaxws.spi.handler. |
+| 1.2.61 | 6511035576063254270 | jodd.db.connection. |
 | 1.2.61 | 8925522461579647174 | org.apache.commons.configuration.JNDIConfiguration |
 
 
