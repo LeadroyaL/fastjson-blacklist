@@ -12,7 +12,7 @@ public class V1_2_49 {
             data = new BlackInfo();
             data.version = 1249;
             data.known = new LinkedList<BlackInfo.BlockItem>() {{
-                add(new BlackInfo.BlockItem(4904007817188630457L, "com.alibaba.fastjson.annotation"));
+                add(new BlackInfo.BlockItem(4904007817188630457L, "com.alibaba.fastjson.annotation")); //0x440e89208f445fb9L
             }};
             data.unknown = new LinkedList<BlackInfo.BlockItem>() {{
             }};

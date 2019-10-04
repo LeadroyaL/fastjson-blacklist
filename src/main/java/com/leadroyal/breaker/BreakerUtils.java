@@ -105,10 +105,10 @@ public class BreakerUtils {
         Collections.sort(ret.unknown);
         System.out.println("ret.known");
         for (BlackInfo.BlockItem i : ret.known)
-            System.out.println(String.format("add(new BlackInfo.BlockItem(%dL, \"%s\"));", i.hash, i.banned));
+            System.out.println(String.format("add(new BlackInfo.BlockItem(%dL, \"%s\")); //0x%sL", i.hash, i.banned, Long.toHexString(i.hash)));
         System.out.println("ret.unknown");
         for (BlackInfo.BlockItem i : ret.unknown)
-            System.out.println(String.format("add(new BlackInfo.BlockItem(%dL, \"%s\"));", i.hash, i.banned));
+            System.out.println(String.format("add(new BlackInfo.BlockItem(%dL, \"%s\")); //0x%sL", i.hash, i.banned, Long.toHexString(i.hash)));
         return ret;
     }
 

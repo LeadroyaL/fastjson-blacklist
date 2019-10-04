@@ -15,6 +15,23 @@
 
 ```
 
+`fastjson` 在1.2.61开始，在[https://github.com/alibaba/fastjson/commit/d1c0dff9a33d49e6e7b98a4063da01bbc9325a38](https://github.com/alibaba/fastjson/commit/d1c0dff9a33d49e6e7b98a4063da01bbc9325a38)中，把黑名单从十进制数变成了十六进制数，可能是为了防止安全研究者进行搜索，恕我直言有点可笑。
+
+```
+        denyHashCodes = new long[]{
+-                -8720046426850100497L,
+-                -8165637398350707645L,
+-                -8109300701639721088L,
+
++                0x86fc2bf9beaf7aefL,
++                0x8eadd40cb2a94443L,
++                0x8f75f9fa0df03f80L,
+```
+
+`fastjson` 在1.2.62开始，[https://github.com/alibaba/fastjson/commit/014444e6c62329ec7878bb6b0c6b28c3f516c54e](https://github.com/alibaba/fastjson/commit/014444e6c62329ec7878bb6b0c6b28c3f516c54e)中，从小写改成了大写，可能是为了规范吧。
+
+本git只记录十进制和小写的十六进制数，不记录大写的十六进制数。
+
 网上没找到类似的仓库，为了弄清楚每个hash到底对应的是什么，就写了个小轮子，跑一下这些case，列出来。
 
 ### 功能

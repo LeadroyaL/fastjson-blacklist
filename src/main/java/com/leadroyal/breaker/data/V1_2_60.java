@@ -12,7 +12,7 @@ public class V1_2_60 {
             data = new BlackInfo();
             data.version = 1260;
             data.known = new LinkedList<BlackInfo.BlockItem>() {{
-                add(new BlackInfo.BlockItem(3688179072722109200L, "com.zaxxer.hikari."));
+                add(new BlackInfo.BlockItem(3688179072722109200L, "com.zaxxer.hikari.")); //0x332f0b5369a18310L
             }};
             data.unknown = new LinkedList<BlackInfo.BlockItem>() {{
             }};
