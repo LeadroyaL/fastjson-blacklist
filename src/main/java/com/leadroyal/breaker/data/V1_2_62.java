@@ -12,17 +12,18 @@ public class V1_2_62 {
             data = new BlackInfo();
             data.version = 1262;
             data.known = new LinkedList<BlackInfo.BlockItem>() {{
+                add(new BlackInfo.BlockItem(-8649961213709896794L, "net.sf.cglib.")); //0x87f52a1b07ea33a6L
                 add(new BlackInfo.BlockItem(-3319207949486691020L, "oracle.jdbc.")); //0xd1efcdf4b3316d34L
                 add(new BlackInfo.BlockItem(-2095516571388852610L, "net.sf.ehcache.hibernate.")); //0xe2eb3ac7e56c467eL
                 add(new BlackInfo.BlockItem(823641066473609950L, "org.apache.commons.logging.")); //0xb6e292fa5955adeL
                 add(new BlackInfo.BlockItem(2164696723069287854L, "org.apache.ibatis.datasource.")); //0x1e0a8c3358ff3daeL
+                add(new BlackInfo.BlockItem(2653453629929770569L, "org.objectweb.asm.")); //0x24d2f6048fef4e49L
                 add(new BlackInfo.BlockItem(2836431254737891113L, "flex.messaging.util.concurrent.")); //0x275d0732b877af29L
                 add(new BlackInfo.BlockItem(7123326897294507060L, "org.apache.commons.collections.functors.")); //0x62db241274397c34L
                 add(new BlackInfo.BlockItem(8488266005336625107L, "org.apache.commons.configuration")); //0x75cc60f5871d0fd3L
             }};
             data.unknown = new LinkedList<BlackInfo.BlockItem>() {{
                 add(new BlackInfo.BlockItem(-9164606388214699518L, "")); //0x80d0c70bcc2fea02L
-                add(new BlackInfo.BlockItem(-8649961213709896794L, "")); //0x87f52a1b07ea33a6L
                 add(new BlackInfo.BlockItem(-6316154655839304624L, "")); //0xa85882ce1044c450L
                 add(new BlackInfo.BlockItem(-5764804792063216819L, "")); //0xafff4c95b99a334dL
                 add(new BlackInfo.BlockItem(-5472097725414717105L, "")); //0xb40f341c746ec94fL
@@ -33,7 +34,6 @@ public class V1_2_62 {
                 add(new BlackInfo.BlockItem(218512992947536312L, "")); //0x3085068cb7201b8L
                 add(new BlackInfo.BlockItem(1534439610567445754L, "")); //0x154b6cb22d294cfaL
                 add(new BlackInfo.BlockItem(1818089308493370394L, "")); //0x193b2697eaaed41aL
-                add(new BlackInfo.BlockItem(2653453629929770569L, "")); //0x24d2f6048fef4e49L
                 add(new BlackInfo.BlockItem(3089451460101527857L, "")); //0x2adfefbbfe29d931L
                 add(new BlackInfo.BlockItem(3256258368248066264L, "")); //0x2d308dbbc851b0d8L
                 add(new BlackInfo.BlockItem(3718352661124136681L, "")); //0x339a3e0b6beebee9L
