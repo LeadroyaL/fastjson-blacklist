@@ -127,12 +127,15 @@ public class Main {
 | 1.2.62 | -9164606388214699518 | 0x80d0c70bcc2fea02L | org.apache.ibatis.executor. |
 | 1.2.62 | -8649961213709896794 | 0x87f52a1b07ea33a6L | net.sf.cglib. |
 | 1.2.62 | -5764804792063216819 | 0xafff4c95b99a334dL | com.mysql.cj.jdbc.MysqlDataSource |
+| 1.2.62 | -4438775680185074100 | 0xc2664d0958ecfe4cL | aj.org.objectweb.asm. |
 | 1.2.62 | -3319207949486691020 | 0xd1efcdf4b3316d34L | oracle.jdbc. |
 | 1.2.62 | -2192804397019347313 | 0xe1919804d5bf468fL | org.apache.commons.collections.comparators. |
 | 1.2.62 | -2095516571388852610 | 0xe2eb3ac7e56c467eL | net.sf.ehcache.hibernate. |
 | 1.2.62 | 4750336058574309 | 0x10e067cd55c5e5L | com.mysql.cj.log. |
+| 1.2.62 | 218512992947536312 | 0x3085068cb7201b8L | org.h2.jdbcx. |
 | 1.2.62 | 823641066473609950 | 0xb6e292fa5955adeL | org.apache.commons.logging. |
 | 1.2.62 | 1534439610567445754 | 0x154b6cb22d294cfaL | org.apache.ibatis.reflection. |
+| 1.2.62 | 1818089308493370394 | 0x193b2697eaaed41aL | org.h2.server. |
 | 1.2.62 | 2164696723069287854 | 0x1e0a8c3358ff3daeL | org.apache.ibatis.datasource. |
 | 1.2.62 | 2653453629929770569 | 0x24d2f6048fef4e49L | org.objectweb.asm. |
 | 1.2.62 | 2836431254737891113 | 0x275d0732b877af29L | flex.messaging.util.concurrent. |
@@ -154,9 +157,6 @@ public class Main {
 | 1.2.62 | -6316154655839304624 | 0xa85882ce1044c450L | |
 | 1.2.62 | -5472097725414717105 | 0xb40f341c746ec94fL | |
 | 1.2.62 | -4608341446948126581 | 0xc00be1debaf2808bL | |
-| 1.2.62 | -4438775680185074100 | 0xc2664d0958ecfe4cL | |
-| 1.2.62 | 218512992947536312 | 0x3085068cb7201b8L | |
-| 1.2.62 | 1818089308493370394 | 0x193b2697eaaed41aL | |
 | 1.2.62 | 3256258368248066264 | 0x2d308dbbc851b0d8L | |
 | 1.2.62 | 4841947709850912914 | 0x43320dc9d2ae0892L | |
 | 1.2.62 | 6534946468240507089 | 0x5ab0cb3071ab40d1L | |
@@ -166,3 +166,4 @@ public class Main {
 - @UUUUnotfound [https://github.com/LeadroyaL/fastjson-blacklist/issues/1](https://github.com/LeadroyaL/fastjson-blacklist/issues/1)
 - @nanolikeyou [https://github.com/LeadroyaL/fastjson-blacklist/pull/2](https://github.com/LeadroyaL/fastjson-blacklist/pull/2)
 - @nanolikeyou [https://github.com/LeadroyaL/fastjson-blacklist/issues/3](https://github.com/LeadroyaL/fastjson-blacklist/issues/3)
+- @MiliTing [https://github.com/LeadroyaL/fastjson-blacklist/issues/5](https://github.com/LeadroyaL/fastjson-blacklist/issues/5)
