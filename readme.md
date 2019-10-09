@@ -124,13 +124,23 @@ public class Main {
 | 1.2.61 | 4814658433570175913 | 0x42d11a560fc9fba9L | org.apache.axis2.jaxws.spi.handler. |
 | 1.2.61 | 6511035576063254270 | 0x5a5bd85c072e5efeL | jodd.db.connection. |
 | 1.2.61 | 8925522461579647174 | 0x7bddd363ad3998c6L | org.apache.commons.configuration.JNDIConfiguration |
+| 1.2.62 | -9164606388214699518 | 0x80d0c70bcc2fea02L | org.apache.ibatis.executor. |
 | 1.2.62 | -8649961213709896794 | 0x87f52a1b07ea33a6L | net.sf.cglib. |
+| 1.2.62 | -5764804792063216819 | 0xafff4c95b99a334dL | com.mysql.cj.jdbc.MysqlDataSource |
 | 1.2.62 | -3319207949486691020 | 0xd1efcdf4b3316d34L | oracle.jdbc. |
+| 1.2.62 | -2192804397019347313 | 0xe1919804d5bf468fL | org.apache.commons.collections.comparators. |
 | 1.2.62 | -2095516571388852610 | 0xe2eb3ac7e56c467eL | net.sf.ehcache.hibernate. |
+| 1.2.62 | 4750336058574309 | 0x10e067cd55c5e5L | com.mysql.cj.log. |
 | 1.2.62 | 823641066473609950 | 0xb6e292fa5955adeL | org.apache.commons.logging. |
+| 1.2.62 | 1534439610567445754 | 0x154b6cb22d294cfaL | org.apache.ibatis.reflection. |
 | 1.2.62 | 2164696723069287854 | 0x1e0a8c3358ff3daeL | org.apache.ibatis.datasource. |
 | 1.2.62 | 2653453629929770569 | 0x24d2f6048fef4e49L | org.objectweb.asm. |
 | 1.2.62 | 2836431254737891113 | 0x275d0732b877af29L | flex.messaging.util.concurrent. |
+| 1.2.62 | 3089451460101527857 | 0x2adfefbbfe29d931L | org.apache.ibatis.javassist. |
+| 1.2.62 | 3718352661124136681 | 0x339a3e0b6beebee9L | org.apache.ibatis.ognl. |
+| 1.2.62 | 4046190361520671643 | 0x3826f4b2380c8b9bL | com.mysql.cj.jdbc.MysqlConnectionPoolDataSource |
+| 1.2.62 | 6280357960959217660 | 0x5728504a6d454ffcL | org.apache.ibatis.scripting. |
+| 1.2.62 | 6734240326434096246 | 0x5d74d3e5b9370476L | com.mysql.cj.jdbc.MysqlXADataSource |
 | 1.2.62 | 7123326897294507060 | 0x62db241274397c34L | org.apache.commons.collections.functors. |
 | 1.2.62 | 8488266005336625107 | 0x75cc60f5871d0fd3L | org.apache.commons.configuration |
 
@@ -141,25 +151,15 @@ public class Main {
 | version | hash | hex-hash | name |
 |---|---|---|---|
 | 1.2.42 | 33238344207745342 | 0x761619136cc13eL | |
-| 1.2.62 | -9164606388214699518 | 0x80d0c70bcc2fea02L | |
 | 1.2.62 | -6316154655839304624 | 0xa85882ce1044c450L | |
-| 1.2.62 | -5764804792063216819 | 0xafff4c95b99a334dL | |
 | 1.2.62 | -5472097725414717105 | 0xb40f341c746ec94fL | |
 | 1.2.62 | -4608341446948126581 | 0xc00be1debaf2808bL | |
 | 1.2.62 | -4438775680185074100 | 0xc2664d0958ecfe4cL | |
-| 1.2.62 | -2192804397019347313 | 0xe1919804d5bf468fL | |
-| 1.2.62 | 4750336058574309 | 0x10e067cd55c5e5L | |
 | 1.2.62 | 218512992947536312 | 0x3085068cb7201b8L | |
-| 1.2.62 | 1534439610567445754 | 0x154b6cb22d294cfaL | |
 | 1.2.62 | 1818089308493370394 | 0x193b2697eaaed41aL | |
-| 1.2.62 | 3089451460101527857 | 0x2adfefbbfe29d931L | |
 | 1.2.62 | 3256258368248066264 | 0x2d308dbbc851b0d8L | |
-| 1.2.62 | 3718352661124136681 | 0x339a3e0b6beebee9L | |
-| 1.2.62 | 4046190361520671643 | 0x3826f4b2380c8b9bL | |
 | 1.2.62 | 4841947709850912914 | 0x43320dc9d2ae0892L | |
-| 1.2.62 | 6280357960959217660 | 0x5728504a6d454ffcL | |
 | 1.2.62 | 6534946468240507089 | 0x5ab0cb3071ab40d1L | |
-| 1.2.62 | 6734240326434096246 | 0x5d74d3e5b9370476L | |
 
 ### 感谢补充
 
