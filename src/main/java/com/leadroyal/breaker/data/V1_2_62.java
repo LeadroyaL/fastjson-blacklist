@@ -14,6 +14,7 @@ public class V1_2_62 {
             data.known = new LinkedList<BlackInfo.BlockItem>() {{
                 add(new BlackInfo.BlockItem(-9164606388214699518L, "org.apache.ibatis.executor.")); //0x80d0c70bcc2fea02L
                 add(new BlackInfo.BlockItem(-8649961213709896794L, "net.sf.cglib.")); //0x87f52a1b07ea33a6L
+                add(new BlackInfo.BlockItem(-6316154655839304624L, "oracle.net.")); //0xa85882ce1044c450L
                 add(new BlackInfo.BlockItem(-5764804792063216819L, "com.mysql.cj.jdbc.MysqlDataSource")); //0xafff4c95b99a334dL
                 add(new BlackInfo.BlockItem(-4438775680185074100L, "aj.org.objectweb.asm.")); //0xc2664d0958ecfe4cL
                 add(new BlackInfo.BlockItem(-3319207949486691020L, "oracle.jdbc.")); //0xd1efcdf4b3316d34L
@@ -31,11 +32,10 @@ public class V1_2_62 {
                 add(new BlackInfo.BlockItem(3718352661124136681L, "org.apache.ibatis.ognl.")); //0x339a3e0b6beebee9L
                 add(new BlackInfo.BlockItem(4046190361520671643L, "com.mysql.cj.jdbc.MysqlConnectionPoolDataSource")); //0x3826f4b2380c8b9bL
                 add(new BlackInfo.BlockItem(6280357960959217660L, "org.apache.ibatis.scripting.")); //0x5728504a6d454ffcL
+                add(new BlackInfo.BlockItem(6534946468240507089L, "org.apache.commons.proxy.")); //0x5ab0cb3071ab40d1L
                 add(new BlackInfo.BlockItem(6734240326434096246L, "com.mysql.cj.jdbc.MysqlXADataSource")); //0x5d74d3e5b9370476L
                 add(new BlackInfo.BlockItem(7123326897294507060L, "org.apache.commons.collections.functors.")); //0x62db241274397c34L
                 add(new BlackInfo.BlockItem(8488266005336625107L, "org.apache.commons.configuration")); //0x75cc60f5871d0fd3L
-                add(new BlackInfo.BlockItem(-6316154655839304624L, "oracle.net.")); //0xa85882ce1044c450L
-                add(new BlackInfo.BlockItem(6534946468240507089L, "org.apache.commons.proxy.")); //0x5ab0cb3071ab40d1L
             }};
             data.unknown = new LinkedList<BlackInfo.BlockItem>() {{
                 add(new BlackInfo.BlockItem(-5472097725414717105L, "")); //0xb40f341c746ec94fL

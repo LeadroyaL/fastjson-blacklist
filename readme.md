@@ -126,6 +126,7 @@ public class Main {
 | 1.2.61 | 8925522461579647174 | 0x7bddd363ad3998c6L | org.apache.commons.configuration.JNDIConfiguration |
 | 1.2.62 | -9164606388214699518 | 0x80d0c70bcc2fea02L | org.apache.ibatis.executor. |
 | 1.2.62 | -8649961213709896794 | 0x87f52a1b07ea33a6L | net.sf.cglib. |
+| 1.2.62 | -6316154655839304624 | 0xa85882ce1044c450L | oracle.net.|
 | 1.2.62 | -5764804792063216819 | 0xafff4c95b99a334dL | com.mysql.cj.jdbc.MysqlDataSource |
 | 1.2.62 | -4438775680185074100 | 0xc2664d0958ecfe4cL | aj.org.objectweb.asm. |
 | 1.2.62 | -3319207949486691020 | 0xd1efcdf4b3316d34L | oracle.jdbc. |
@@ -143,11 +144,10 @@ public class Main {
 | 1.2.62 | 3718352661124136681 | 0x339a3e0b6beebee9L | org.apache.ibatis.ognl. |
 | 1.2.62 | 4046190361520671643 | 0x3826f4b2380c8b9bL | com.mysql.cj.jdbc.MysqlConnectionPoolDataSource |
 | 1.2.62 | 6280357960959217660 | 0x5728504a6d454ffcL | org.apache.ibatis.scripting. |
+| 1.2.62 | 6534946468240507089 | 0x5ab0cb3071ab40d1L | org.apache.commons.proxy.|
 | 1.2.62 | 6734240326434096246 | 0x5d74d3e5b9370476L | com.mysql.cj.jdbc.MysqlXADataSource |
 | 1.2.62 | 7123326897294507060 | 0x62db241274397c34L | org.apache.commons.collections.functors. |
 | 1.2.62 | 8488266005336625107 | 0x75cc60f5871d0fd3L | org.apache.commons.configuration |
-| 1.2.62 | -6316154655839304624 | 0xa85882ce1044c450L | oracle.net.|
-| 1.2.62 | 6534946468240507089 | 0x5ab0cb3071ab40d1L | org.apache.commons.proxy.|
 
 ### 目前未知的列表
 
@@ -166,3 +166,4 @@ public class Main {
 - @nanolikeyou [https://github.com/LeadroyaL/fastjson-blacklist/pull/2](https://github.com/LeadroyaL/fastjson-blacklist/pull/2)
 - @nanolikeyou [https://github.com/LeadroyaL/fastjson-blacklist/issues/3](https://github.com/LeadroyaL/fastjson-blacklist/issues/3)
 - @MiliTing [https://github.com/LeadroyaL/fastjson-blacklist/issues/5](https://github.com/LeadroyaL/fastjson-blacklist/issues/5)
+- @j1anFen [https://github.com/LeadroyaL/fastjson-blacklist/pull/6](https://github.com/LeadroyaL/fastjson-blacklist/pull/6)
