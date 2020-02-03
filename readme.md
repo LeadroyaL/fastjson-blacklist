@@ -146,20 +146,19 @@ public class Main {
 | 1.2.62 | 6734240326434096246 | 0x5d74d3e5b9370476L | com.mysql.cj.jdbc.MysqlXADataSource |
 | 1.2.62 | 7123326897294507060 | 0x62db241274397c34L | org.apache.commons.collections.functors. |
 | 1.2.62 | 8488266005336625107 | 0x75cc60f5871d0fd3L | org.apache.commons.configuration |
-
-
+| 1.2.62 | -6316154655839304624 | 0xa85882ce1044c450L | oracle.net.|
+| 1.2.62 | 6534946468240507089 | 0x5ab0cb3071ab40d1L | org.apache.commons.proxy.|
 
 ### 目前未知的列表
 
 | version | hash | hex-hash | name |
 |---|---|---|---|
 | 1.2.42 | 33238344207745342 | 0x761619136cc13eL | |
-| 1.2.62 | -6316154655839304624 | 0xa85882ce1044c450L | |
 | 1.2.62 | -5472097725414717105 | 0xb40f341c746ec94fL | |
 | 1.2.62 | -4608341446948126581 | 0xc00be1debaf2808bL | |
 | 1.2.62 | 3256258368248066264 | 0x2d308dbbc851b0d8L | |
 | 1.2.62 | 4841947709850912914 | 0x43320dc9d2ae0892L | |
-| 1.2.62 | 6534946468240507089 | 0x5ab0cb3071ab40d1L | |
+
 
 ### 感谢补充
 
