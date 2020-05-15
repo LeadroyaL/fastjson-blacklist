@@ -28,6 +28,12 @@ public class V1_2_all {
         add(V1_2_60.getData());
         add(V1_2_61.getData());
         add(V1_2_62.getData());
+        add(V1_2_63.getData());
+        add(V1_2_64.getData());
+        add(V1_2_65.getData());
+        add(V1_2_66.getData());
+        add(V1_2_67.getData());
         add(V1_2_68.getData());
+        add(V1_2_69.getData());
     }};
 }
