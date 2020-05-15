@@ -31,12 +31,12 @@ public class V1_2_62 {
                 add(new BlackInfo.BlockItem(3089451460101527857L, "org.apache.ibatis.javassist.")); //0x2adfefbbfe29d931L
                 add(new BlackInfo.BlockItem(3718352661124136681L, "org.apache.ibatis.ognl.")); //0x339a3e0b6beebee9L
                 add(new BlackInfo.BlockItem(4046190361520671643L, "com.mysql.cj.jdbc.MysqlConnectionPoolDataSource")); //0x3826f4b2380c8b9bL
+                add(new BlackInfo.BlockItem(4841947709850912914L, "org.codehaus.jackson.")); //0x43320dc9d2ae0892L
                 add(new BlackInfo.BlockItem(6280357960959217660L, "org.apache.ibatis.scripting.")); //0x5728504a6d454ffcL
                 add(new BlackInfo.BlockItem(6534946468240507089L, "org.apache.commons.proxy.")); //0x5ab0cb3071ab40d1L
                 add(new BlackInfo.BlockItem(6734240326434096246L, "com.mysql.cj.jdbc.MysqlXADataSource")); //0x5d74d3e5b9370476L
                 add(new BlackInfo.BlockItem(7123326897294507060L, "org.apache.commons.collections.functors.")); //0x62db241274397c34L
                 add(new BlackInfo.BlockItem(8488266005336625107L, "org.apache.commons.configuration")); //0x75cc60f5871d0fd3L
-                add(new BlackInfo.BlockItem(4841947709850912914L, "org.codehaus.jackson.")); //0x43320dc9d2ae0892L
             }};
             data.unknown = new LinkedList<BlackInfo.BlockItem>() {{
                 add(new BlackInfo.BlockItem(-5472097725414717105L, "")); //0xb40f341c746ec94fL

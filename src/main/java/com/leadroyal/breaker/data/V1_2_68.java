@@ -18,7 +18,6 @@ public class V1_2_68 {
                 add(new BlackInfo.BlockItem(-2825378362173150292L, "")); //0xd8ca3d595e982bacL
                 add(new BlackInfo.BlockItem(9140390920032557669L, "")); //0x7ed9311d28bf1a65L
                 add(new BlackInfo.BlockItem(9140416208800006522L, "")); //0x7ed9481d28bf417aL
-                add(new BlackInfo.BlockItem(-3053747177772160511L, "")); //0xd59ee91f0b09ea01L
             }};
         }
         return data;

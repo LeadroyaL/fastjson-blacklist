@@ -143,12 +143,12 @@ public class Main {
 | 1.2.62 | 3089451460101527857 | 0x2adfefbbfe29d931L | org.apache.ibatis.javassist. |
 | 1.2.62 | 3718352661124136681 | 0x339a3e0b6beebee9L | org.apache.ibatis.ognl. |
 | 1.2.62 | 4046190361520671643 | 0x3826f4b2380c8b9bL | com.mysql.cj.jdbc.MysqlConnectionPoolDataSource |
+| 1.2.62 | 4841947709850912914 | 0x43320dc9d2ae0892L | org.codehaus.jackson. |
 | 1.2.62 | 6280357960959217660 | 0x5728504a6d454ffcL | org.apache.ibatis.scripting. |
 | 1.2.62 | 6534946468240507089 | 0x5ab0cb3071ab40d1L | org.apache.commons.proxy.|
 | 1.2.62 | 6734240326434096246 | 0x5d74d3e5b9370476L | com.mysql.cj.jdbc.MysqlXADataSource |
 | 1.2.62 | 7123326897294507060 | 0x62db241274397c34L | org.apache.commons.collections.functors. |
 | 1.2.62 | 8488266005336625107 | 0x75cc60f5871d0fd3L | org.apache.commons.configuration |
-| 1.2.62 | 4841947709850912914 | 0x43320dc9d2ae0892L | org.codehaus.jackson. |
 | 1.2.68 | -3077205613010077203L | 0xd54b91cc77b239edL | org.apache.shiro.jndi. |
 
 ### 目前未知的列表
@@ -162,7 +162,7 @@ public class Main {
 | 1.2.68 | -2825378362173150292L | 0xd8ca3d595e982bacL | |
 | 1.2.68 | 9140390920032557669L | 0x7ed9311d28bf1a65L | |
 | 1.2.68 | 9140416208800006522L | 0x7ed9481d28bf417aL | |
-| 1.2.68 | -3053747177772160511L | 0xd59ee91f0b09ea01L | |
+| 1.2.69 | -3053747177772160511L | 0xd59ee91f0b09ea01L | |
 
 
 
@@ -173,3 +173,4 @@ public class Main {
 - @nanolikeyou [https://github.com/LeadroyaL/fastjson-blacklist/issues/3](https://github.com/LeadroyaL/fastjson-blacklist/issues/3)
 - @MiliTing [https://github.com/LeadroyaL/fastjson-blacklist/issues/5](https://github.com/LeadroyaL/fastjson-blacklist/issues/5)
 - @j1anFen [https://github.com/LeadroyaL/fastjson-blacklist/pull/6](https://github.com/LeadroyaL/fastjson-blacklist/pull/6)
+- @Kevin-sa [https://github.com/LeadroyaL/fastjson-blacklist/pull/7](https://github.com/LeadroyaL/fastjson-blacklist/pull/7)
