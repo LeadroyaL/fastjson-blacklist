@@ -188,6 +188,72 @@ public class Main {
 | 1.2.68 | 9140390920032557669L | 0x7ed9311d28bf1a65L | |
 | 1.2.68 | 9140416208800006522L | 0x7ed9481d28bf417aL | |
 
+### 内置白名单
+
+`fastjson`在1.2.67开始，将内置白名单也使用哈希的方式存放。体现在这次commit中 [https://github.com/alibaba/fastjson/commit/84eca8e56003ff6ebad3da19c6d69dcd842dbdf7](https://github.com/alibaba/fastjson/commit/84eca8e56003ff6ebad3da19c6d69dcd842dbdf7)，以下为对照表。
+
+PS: `org.springframework.security.web.savedrequest.DefaultSavedRequest` 在该次commit中从白名单移除。
+
+| hash | name |
+|----|-----|
+| 0xD4788669A13AE74L | java.awt.Rectangle |
+| 0xE08EE874A26F5EAFL | java.awt.Point |
+| 0xDDAAA11FECA77B5EL | java.awt.Font |
+| 0xB81BA299273D4E6L | java.awt.Color |
+| 0xA8AAA929446FFCE4L | com.alibaba.fastjson.util.AntiCollisionHashMap |
+| 0xD0E71A6E155603C1L | com.alipay.sofa.rpc.core.exception.SofaTimeOutException |
+| 0x9F2E20FB6049A371L | java.util.Collections.UnmodifiableMap |
+| 0xD45D6F8C9017FAL | java.util.concurrent.ConcurrentSkipListMap |
+| 0x64DC636F343516DCL | java.util.concurrent.ConcurrentSkipListSet |
+| 0x7FE2B8E675DA0CEFL | org.springframework.dao.CannotAcquireLockException |
+| 0xF8C7EF9B13231FB6L | org.springframework.dao.CannotSerializeTransactionException |
+| 0x42646E60EC7E5189L | org.springframework.dao.CleanupFailureDataAccessException |
+| 0xCC720543DC5E7090L | org.springframework.dao.ConcurrencyFailureException |
+| 0xC0FE32B8DC897DE9L | org.springframework.dao.DataAccessResourceFailureException |
+| 0xDC9583F0087CC2C7L | org.springframework.dao.DataIntegrityViolationException |
+| 0x5449EC9B0280B9EFL | org.springframework.dao.DataRetrievalFailureException |
+| 0xEB7D4786C473368DL | org.springframework.dao.DeadlockLoserDataAccessException |
+| 0x44D57A1B1EF53451L | org.springframework.dao.DuplicateKeyException |
+| 0xC92D8F9129AF339BL | org.springframework.dao.EmptyResultDataAccessException |
+| 0x9DF9341F0C76702L | org.springframework.dao.IncorrectResultSizeDataAccessException |
+| 0xDB7BFFC197369352L | org.springframework.dao.IncorrectUpdateSemanticsDataAccessException |
+| 0x73FBA1E41C4C3553L | org.springframework.dao.InvalidDataAccessApiUsageException |
+| 0x76566C052E83815L | org.springframework.dao.InvalidDataAccessResourceUsageException |
+| 0x61D10AF54471E5DEL | org.springframework.dao.NonTransientDataAccessException |
+| 0x82E8E13016B73F9EL | org.springframework.dao.NonTransientDataAccessResourceException |
+| 0xE794F5F7DCD3AC85L | org.springframework.dao.OptimisticLockingFailureException |
+| 0x3F64BC3933A6A2DFL | org.springframework.dao.PermissionDeniedDataAccessException |
+| 0x863D2DD1E82B9ED9L | org.springframework.dao.PessimisticLockingFailureException |
+| 0x4BB3C59964A2FC50L | org.springframework.dao.QueryTimeoutException |
+| 0x552D9FB02FFC9DEFL | org.springframework.dao.RecoverableDataAccessException |
+| 0x21082DFBF63FBCC1L | org.springframework.dao.TransientDataAccessException |
+| 0x178B0E2DC3AE9FE5L | org.springframework.dao.TransientDataAccessResourceException |
+| 0x24AE2D07FB5D7497L | org.springframework.dao.TypeMismatchDataAccessException |
+| 0x90003416F28ACD89L | org.springframework.dao.UncategorizedDataAccessException |
+| 0x73A0BE903F2BCBF4L | org.springframework.jdbc.BadSqlGrammarException |
+| 0x7B606F16A261E1E6L | org.springframework.jdbc.CannotGetJdbcConnectionException |
+| 0xAFCB539973CEA3F7L | org.springframework.jdbc.IncorrectResultSetColumnCountException |
+| 0x4A39C6C7ACB6AA18L | org.springframework.jdbc.InvalidResultSetAccessException |
+| 0x9E404E583F254FD4L | org.springframework.jdbc.JdbcUpdateAffectedIncorrectNumberOfRowsException |
+| 0x34CC8E52316FA0CBL | org.springframework.jdbc.LobRetrievalFailureException |
+| 0xB5114C70135C4538L | org.springframework.jdbc.SQLWarningException |
+| 0x7F36112F218143B6L | org.springframework.jdbc.UncategorizedSQLException |
+| 0x26C5D923AF21E2E1L | org.springframework.cache.support.NullValue |
+| 0xD11D2A941337A7BCL | org.springframework.security.oauth2.common.DefaultExpiringOAuth2RefreshToken |
+| 0x4F0C3688E8A18F9FL | org.springframework.security.oauth2.common.DefaultOAuth2AccessToken |
+| 0xC59AA84D9A94C640L | org.springframework.security.oauth2.common.DefaultOAuth2RefreshToken |
+| 0x1F10A70EE4065963L | org.springframework.util.LinkedMultiValueMap |
+| 0x557F642131553498L | org.springframework.util.LinkedCaseInsensitiveMap |
+| 0x8B2081CB3A50BD44L | org.springframework.remoting.support.RemoteInvocation |
+| 0x8B2081CB3A50BD44L | org.springframework.remoting.support.RemoteInvocation |
+| 0x54DC66A59269BAE1L | org.springframework.security.web.savedrequest.SavedCookie |
+| 0x111D12921C5466DAL | org.springframework.security.web.csrf.DefaultCsrfToken |
+| 0x19DCAF4ADC37D6D4L | org.springframework.security.web.authentication.WebAuthenticationDetails |
+| 0x604D6657082C1EE9L | org.springframework.security.core.context.SecurityContextImpl |
+| 0xF4AA683928027CDAL | org.springframework.security.authentication.UsernamePasswordAuthenticationToken |
+| 0x92F252C398C02946L | org.springframework.security.core.authority.SimpleGrantedAuthority |
+| 0x6B949CE6C2FE009L | org.springframework.security.core.userdetails.User |
+
 
 
 ### 感谢补充
