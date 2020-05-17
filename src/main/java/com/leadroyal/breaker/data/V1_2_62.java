@@ -16,6 +16,7 @@ public class V1_2_62 {
                 add(new BlackInfo.BlockItem(-8649961213709896794L, "net.sf.cglib.")); //0x87f52a1b07ea33a6L
                 add(new BlackInfo.BlockItem(-6316154655839304624L, "oracle.net.")); //0xa85882ce1044c450L
                 add(new BlackInfo.BlockItem(-5764804792063216819L, "com.mysql.cj.jdbc.MysqlDataSource")); //0xafff4c95b99a334dL
+                add(new BlackInfo.BlockItem(-4608341446948126581L, "jdk.internal.")); //0xc00be1debaf2808bL
                 add(new BlackInfo.BlockItem(-4438775680185074100L, "aj.org.objectweb.asm.")); //0xc2664d0958ecfe4cL
                 add(new BlackInfo.BlockItem(-3319207949486691020L, "oracle.jdbc.")); //0xd1efcdf4b3316d34L
                 add(new BlackInfo.BlockItem(-2192804397019347313L, "org.apache.commons.collections.comparators.")); //0xe1919804d5bf468fL
@@ -29,6 +30,7 @@ public class V1_2_62 {
                 add(new BlackInfo.BlockItem(2653453629929770569L, "org.objectweb.asm.")); //0x24d2f6048fef4e49L
                 add(new BlackInfo.BlockItem(2836431254737891113L, "flex.messaging.util.concurrent.")); //0x275d0732b877af29L
                 add(new BlackInfo.BlockItem(3089451460101527857L, "org.apache.ibatis.javassist.")); //0x2adfefbbfe29d931L
+                add(new BlackInfo.BlockItem(3256258368248066264L, "java.lang.UNIXProcess")); //0x2d308dbbc851b0d8L
                 add(new BlackInfo.BlockItem(3718352661124136681L, "org.apache.ibatis.ognl.")); //0x339a3e0b6beebee9L
                 add(new BlackInfo.BlockItem(4046190361520671643L, "com.mysql.cj.jdbc.MysqlConnectionPoolDataSource")); //0x3826f4b2380c8b9bL
                 add(new BlackInfo.BlockItem(4841947709850912914L, "org.codehaus.jackson.")); //0x43320dc9d2ae0892L
@@ -40,8 +42,6 @@ public class V1_2_62 {
             }};
             data.unknown = new LinkedList<BlackInfo.BlockItem>() {{
                 add(new BlackInfo.BlockItem(-5472097725414717105L, "")); //0xb40f341c746ec94fL
-                add(new BlackInfo.BlockItem(-4608341446948126581L, "")); //0xc00be1debaf2808bL
-                add(new BlackInfo.BlockItem(3256258368248066264L, "")); //0x2d308dbbc851b0d8L
             }};
         }
         return data;

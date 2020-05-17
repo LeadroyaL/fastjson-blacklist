@@ -128,6 +128,7 @@ public class Main {
 | 1.2.62 | -8649961213709896794 | 0x87f52a1b07ea33a6L | net.sf.cglib. |
 | 1.2.62 | -6316154655839304624 | 0xa85882ce1044c450L | oracle.net.|
 | 1.2.62 | -5764804792063216819 | 0xafff4c95b99a334dL | com.mysql.cj.jdbc.MysqlDataSource |
+| 1.2.62 | -4608341446948126581 | 0xc00be1debaf2808bL | jdk.internal. |
 | 1.2.62 | -4438775680185074100 | 0xc2664d0958ecfe4cL | aj.org.objectweb.asm. |
 | 1.2.62 | -3319207949486691020 | 0xd1efcdf4b3316d34L | oracle.jdbc. |
 | 1.2.62 | -2192804397019347313 | 0xe1919804d5bf468fL | org.apache.commons.collections.comparators. |
@@ -141,6 +142,7 @@ public class Main {
 | 1.2.62 | 2653453629929770569 | 0x24d2f6048fef4e49L | org.objectweb.asm. |
 | 1.2.62 | 2836431254737891113 | 0x275d0732b877af29L | flex.messaging.util.concurrent. |
 | 1.2.62 | 3089451460101527857 | 0x2adfefbbfe29d931L | org.apache.ibatis.javassist. |
+| 1.2.62 | 3256258368248066264 | 0x2d308dbbc851b0d8L | java.lang.UNIXProcess |
 | 1.2.62 | 3718352661124136681 | 0x339a3e0b6beebee9L | org.apache.ibatis.ognl. |
 | 1.2.62 | 4046190361520671643 | 0x3826f4b2380c8b9bL | com.mysql.cj.jdbc.MysqlConnectionPoolDataSource |
 | 1.2.62 | 4841947709850912914 | 0x43320dc9d2ae0892L | org.codehaus.jackson. |
@@ -149,12 +151,18 @@ public class Main {
 | 1.2.62 | 6734240326434096246 | 0x5d74d3e5b9370476L | com.mysql.cj.jdbc.MysqlXADataSource |
 | 1.2.62 | 7123326897294507060 | 0x62db241274397c34L | org.apache.commons.collections.functors. |
 | 1.2.62 | 8488266005336625107 | 0x75cc60f5871d0fd3L | org.apache.commons.configuration |
+| 1.2.66 | -2439930098895578154 | 0xde23a0809a8b9bd6L | javax.script. |
+| 1.2.66 | -582813228520337988 | 0xf7e96e74dfa58dbcL | javax.sound. |
+| 1.2.66 | -26639035867733124 | 0xffa15bf021f1e37cL | javax.print. |
 | 1.2.66 | 386461436234701831 | 0x55cfca0f2281c07L | javax.activation. |
+| 1.2.66 | 1153291637701043748 | 0x100150a253996624L | javax.tools. |
+| 1.2.66 | 1698504441317515818L | 0x17924cca5227622aL | javax.management. |
 | 1.2.67 | -7775351613326101303L | 0x941866e73beff4c9L | org.apache.shiro.realm. |
 | 1.2.67 | -6025144546313590215L | 0xac6262f52c98aa39L | org.apache.http.conn. |
 | 1.2.67 | -5939269048541779808L | 0xad937a449831e8a0L | org.quartz. |
 | 1.2.67 | -3975378478825053783L | 0xc8d49e5601e661a9L | org.apache.http.impl. |
 | 1.2.67 | -2378990704010641148L | 0xdefc208f237d4104L | com.ibatis. |
+| 1.2.67 | -905177026366752536L | 0xf3702a4a5490b8e8L | org.apache.catalina. |
 | 1.2.67 | 2660670623866180977L | 0x24ec99d5e7dc5571L | org.apache.http.auth. |
 | 1.2.67 | 2731823439467737506L | 0x25e962f1c28f71a2L | br.com.anteros. |
 | 1.2.67 | 3637939656440441093L | 0x327c8ed7c8706905L | com.caucho. |
@@ -165,6 +173,8 @@ public class Main {
 | 1.2.68 | -2825378362173150292L | 0xd8ca3d595e982bacL | org.apache.ignite.cache.jta. |
 | 1.2.68 | 2078113382421334967L | 0x1cd6f11c6a358bb7L | javax.swing.J |
 | 1.2.68 | 6007332606592876737L | 0x535e552d6f9700c1L | org.aoju.bus.proxy.provider. |
+| 1.2.68 | 9140390920032557669L | 0x7ed9311d28bf1a65L | java.awt.p |
+| 1.2.68 | 9140416208800006522L | 0x7ed9481d28bf417aL | java.awt.i |
 | 1.2.69 | -3053747177772160511L | 0xd59ee91f0b09ea01L | oracle.jms.AQ |
 
 ### 目前未知的列表
@@ -172,21 +182,11 @@ public class Main {
 | version | hash | hex-hash | name |
 |---|---|---|---|
 | 1.2.42 | 33238344207745342 | 0x761619136cc13eL | |
-| 1.2.62 | -5472097725414717105 | 0xb40f341c746ec94fL | |
 | 1.2.62 | -4608341446948126581 | 0xc00be1debaf2808bL | |
-| 1.2.62 | 3256258368248066264 | 0x2d308dbbc851b0d8L | |
-| 1.2.66 | -2439930098895578154L | 0xde23a0809a8b9bd6L | |
-| 1.2.66 | -582813228520337988L | 0xf7e96e74dfa58dbcL | |
-| 1.2.66 | -26639035867733124L | 0xffa15bf021f1e37cL | |
-| 1.2.66 | 1153291637701043748L | 0x100150a253996624L | |
-| 1.2.66 | 1698504441317515818L | 0x17924cca5227622aL | |
 | 1.2.67 | -5885964883385605994L | 0xae50da1fad60a096L | |
-| 1.2.67 | -905177026366752536L | 0xf3702a4a5490b8e8L | |
 | 1.2.67 | -831789045734283466L | 0xf474e44518f26736L | |
 | 1.2.67 | 5274044858141538265L | 0x49312bdafb0077d9L | |
 | 1.2.67 | 5474268165959054640L | 0x4bf881e49d37f530L | |
-| 1.2.68 | 9140390920032557669L | 0x7ed9311d28bf1a65L | |
-| 1.2.68 | 9140416208800006522L | 0x7ed9481d28bf417aL | |
 
 ### 内置白名单
 
