@@ -157,6 +157,7 @@ public class Main {
 | 1.2.66 | 386461436234701831 | 0x55cfca0f2281c07L | javax.activation. |
 | 1.2.66 | 1153291637701043748 | 0x100150a253996624L | javax.tools. |
 | 1.2.66 | 1698504441317515818L | 0x17924cca5227622aL | javax.management. |
+| 1.2.66 | 7375862386996623731L | 0x665c53c311193973L | org.apache.xbean. |
 | 1.2.67 | -7775351613326101303L | 0x941866e73beff4c9L | org.apache.shiro.realm. |
 | 1.2.67 | -6025144546313590215L | 0xac6262f52c98aa39L | org.apache.http.conn. |
 | 1.2.67 | -5939269048541779808L | 0xad937a449831e8a0L | org.quartz. |
@@ -183,6 +184,8 @@ public class Main {
 |---|---|---|---|
 | 1.2.42 | 33238344207745342 | 0x761619136cc13eL | |
 | 1.2.62 | -4608341446948126581 | 0xc00be1debaf2808bL | |
+| 1.2.66 | 7658177784286215602L | 0x6a47501ebb2afdb2L | |
+| 1.2.66 | 8055461369741094911L | 0x6fcabf6fa54cafffL | |
 | 1.2.67 | -5885964883385605994L | 0xae50da1fad60a096L | |
 | 1.2.67 | -831789045734283466L | 0xf474e44518f26736L | |
 | 1.2.67 | 5274044858141538265L | 0x49312bdafb0077d9L | |
@@ -264,3 +267,4 @@ PS: `org.springframework.security.web.savedrequest.DefaultSavedRequest` 在该�
 - @MiliTing [https://github.com/LeadroyaL/fastjson-blacklist/issues/5](https://github.com/LeadroyaL/fastjson-blacklist/issues/5)
 - @j1anFen [https://github.com/LeadroyaL/fastjson-blacklist/pull/6](https://github.com/LeadroyaL/fastjson-blacklist/pull/6)
 - @Kevin-sa [https://github.com/LeadroyaL/fastjson-blacklist/pull/7](https://github.com/LeadroyaL/fastjson-blacklist/pull/7)
+- [https://m.weibo.cn/detail/4505978526222190](https://m.weibo.cn/detail/4505978526222190)
