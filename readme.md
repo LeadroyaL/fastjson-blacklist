@@ -170,6 +170,7 @@ public class Main {
 | 1.2.67 | 2731823439467737506L | 0x25e962f1c28f71a2L | br.com.anteros. |
 | 1.2.67 | 3637939656440441093L | 0x327c8ed7c8706905L | com.caucho. |
 | 1.2.67 | 4254584350247334433L | 0x3b0b51ecbf6db221L | org.apache.http.cookie. |
+| 1.2.67 | 5274044858141538265L | 0x49312bdafb0077d9L | org.javasimon. |
 | 1.2.67 | 5596129856135573697L | 0x4da972745feb30c1L | org.apache.activemq.jms.pool. |
 | 1.2.67 | 6854854816081053523L | 0x5f215622fb630753L | org.mortbay.jetty. |
 | 1.2.68 | -3077205613010077203L | 0xd54b91cc77b239edL | org.apache.shiro.jndi. |
@@ -188,7 +189,6 @@ public class Main {
 | 1.2.62 | -4608341446948126581 | 0xc00be1debaf2808bL | |
 | 1.2.67 | -5885964883385605994L | 0xae50da1fad60a096L | |
 | 1.2.67 | -831789045734283466L | 0xf474e44518f26736L | |
-| 1.2.67 | 5274044858141538265L | 0x49312bdafb0077d9L | |
 | 1.2.67 | 5474268165959054640L | 0x4bf881e49d37f530L | |
 
 ### 内置白名单
@@ -268,3 +268,4 @@ PS: `org.springframework.security.web.savedrequest.DefaultSavedRequest` 在该�
 - @j1anFen [https://github.com/LeadroyaL/fastjson-blacklist/pull/6](https://github.com/LeadroyaL/fastjson-blacklist/pull/6)
 - @Kevin-sa [https://github.com/LeadroyaL/fastjson-blacklist/pull/7](https://github.com/LeadroyaL/fastjson-blacklist/pull/7)
 - [https://m.weibo.cn/detail/4505978526222190](https://m.weibo.cn/detail/4505978526222190)
+- @Ramos-dev [https://github.com/LeadroyaL/fastjson-blacklist/issues/8](https://github.com/LeadroyaL/fastjson-blacklist/issues/8)

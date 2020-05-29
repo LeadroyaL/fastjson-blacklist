@@ -22,13 +22,13 @@ public class V1_2_67 {
                 add(new BlackInfo.BlockItem(2731823439467737506L, "br.com.anteros.")); //0x25e962f1c28f71a2L
                 add(new BlackInfo.BlockItem(3637939656440441093L, "com.caucho.")); //0x327c8ed7c8706905L
                 add(new BlackInfo.BlockItem(4254584350247334433L, "org.apache.http.cookie.")); //0x3b0b51ecbf6db221L
+                add(new BlackInfo.BlockItem(5274044858141538265L, "org.javasimon.")); //0x49312bdafb0077d9L
                 add(new BlackInfo.BlockItem(5596129856135573697L, "org.apache.activemq.jms.pool.")); //0x4da972745feb30c1L
                 add(new BlackInfo.BlockItem(6854854816081053523L, "org.mortbay.jetty.")); //0x5f215622fb630753L
             }};
             data.unknown = new LinkedList<BlackInfo.BlockItem>() {{
                 add(new BlackInfo.BlockItem(-5885964883385605994L, "")); //0xae50da1fad60a096L
                 add(new BlackInfo.BlockItem(-831789045734283466L, "")); //0xf474e44518f26736L
-                add(new BlackInfo.BlockItem(5274044858141538265L, "")); //0x49312bdafb0077d9L
                 add(new BlackInfo.BlockItem(5474268165959054640L, "")); //0x4bf881e49d37f530L
             }};
         }
