@@ -190,6 +190,18 @@ public class Main {
 | 1.2.69 | 3247277300971823414L | 0x2d10a5801b9d6136L | java.lang.Cloneable |
 | 1.2.69 | 5183404141909004468L | 0x47ef269aadc650b4L | java.lang.Runnable |
 | 1.2.69 | 7222019943667248779L | 0x6439c4dff712ae8bL | java.util.EventListener |
+| 1.2.70 | -5076846148177416215L | 0xb98b6b5396932fe9L | org.apache.commons.collections4.Transformer |
+| 1.2.70 | -4703320437989596122L | 0xbeba72fb1ccba426L | org.apache.commons.collections4.functors |
+| 1.2.70 | -4314457471973557243L | 0xc41ff7c9c87c7c05L | org.jdom2.transform. |
+| 1.2.70 | -2533039401923731906L | 0xdcd8d615a6449e3eL | org.apache.hadoop.shaded.com.zaxxer.hikari. |
+| 1.2.70 | 156405680656087946L | 0x22baa234c5bfb8aL | com.p6spy.engine. |
+| 1.2.70 | 1214780596910349029L | 0x10dbc48446e0dae5L | org.apache.activemq.pool. |
+| 1.2.70 | 3085473968517218653L | 0x2ad1ce3a112f015dL | org.apache.aries.transaction. |
+| 1.2.70 | 3129395579983849527L | 0x2b6dd8b3229d6837L | org.apache.activemq.ActiveMQConnectionFactory |
+| 1.2.70 | 4241163808635564644L | 0x3adba40367f73264L | org.apache.activemq.spring. |
+| 1.2.70 | 7240293012336844478L | 0x647ab0224e149ebeL | org.apache.activemq.ActiveMQXAConnectionFactory |
+| 1.2.70 | 7347653049056829645L | 0x65f81b84c1d920cdL | org.apache.commons.jelly. |
+| 1.2.70 | 7617522210483516279L | 0x69b6e0175084b377L | org.apache.axis2.transport.jms. |
 
 ### 目前未知的列表
 
