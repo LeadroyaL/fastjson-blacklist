@@ -179,7 +179,17 @@ public class Main {
 | 1.2.68 | 6007332606592876737L | 0x535e552d6f9700c1L | org.aoju.bus.proxy.provider. |
 | 1.2.68 | 9140390920032557669L | 0x7ed9311d28bf1a65L | java.awt.p |
 | 1.2.68 | 9140416208800006522L | 0x7ed9481d28bf417aL | java.awt.i |
+| 1.2.69 | -8024746738719829346L | 0x90a25f5baa21529eL | java.io.Serializable |
+| 1.2.69 | -5811778396720452501L | 0xaf586a571e302c6bL | java.io.Closeable |
 | 1.2.69 | -3053747177772160511L | 0xd59ee91f0b09ea01L | oracle.jms.AQ |
+| 1.2.69 | -2114196234051346931L | 0xe2a8ddba03e69e0dL | java.util.Collection |
+| 1.2.69 | -2027296626235911549L | 0xe3dd9875a2dc5283L | java.lang.Iterable |
+| 1.2.69 | -2939497380989775398L | 0xd734ceb4c3e9d1daL | java.lang.Object |
+| 1.2.69 | -1368967840069965882L | 0xed007300a7b227c6L | java.lang.AutoCloseable |
+| 1.2.69 | 2980334044947851925L | 0x295c4605fd1eaa95L | java.lang.Readable |
+| 1.2.69 | 3247277300971823414L | 0x2d10a5801b9d6136L | java.lang.Cloneable |
+| 1.2.69 | 5183404141909004468L | 0x47ef269aadc650b4L | java.lang.Runnable |
+| 1.2.69 | 7222019943667248779L | 0x6439c4dff712ae8bL | java.util.EventListener |
 
 ### 目前未知的列表
 
