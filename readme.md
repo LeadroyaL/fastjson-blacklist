@@ -163,6 +163,7 @@ public class Main {
 | 1.2.67 | -7775351613326101303L | 0x941866e73beff4c9L | org.apache.shiro.realm. |
 | 1.2.67 | -6025144546313590215L | 0xac6262f52c98aa39L | org.apache.http.conn. |
 | 1.2.67 | -5939269048541779808L | 0xad937a449831e8a0L | org.quartz. |
+| 1.2.67 | -5885964883385605994L | 0xae50da1fad60a096L | com.taobao.eagleeye.wrapper |
 | 1.2.67 | -3975378478825053783L | 0xc8d49e5601e661a9L | org.apache.http.impl. |
 | 1.2.67 | -2378990704010641148L | 0xdefc208f237d4104L | com.ibatis. |
 | 1.2.67 | -905177026366752536L | 0xf3702a4a5490b8e8L | org.apache.catalina. |
@@ -171,6 +172,7 @@ public class Main {
 | 1.2.67 | 3637939656440441093L | 0x327c8ed7c8706905L | com.caucho. |
 | 1.2.67 | 4254584350247334433L | 0x3b0b51ecbf6db221L | org.apache.http.cookie. |
 | 1.2.67 | 5274044858141538265L | 0x49312bdafb0077d9L | org.javasimon. |
+| 1.2.67 | 5474268165959054640L | 0x4bf881e49d37f530L | org.apache.cocoon. |
 | 1.2.67 | 5596129856135573697L | 0x4da972745feb30c1L | org.apache.activemq.jms.pool. |
 | 1.2.67 | 6854854816081053523L | 0x5f215622fb630753L | org.mortbay.jetty. |
 | 1.2.68 | -3077205613010077203L | 0xd54b91cc77b239edL | org.apache.shiro.jndi. |
@@ -208,10 +210,7 @@ public class Main {
 | version | hash | hex-hash | name |
 |---|---|---|---|
 | 1.2.42 | 33238344207745342 | 0x761619136cc13eL | |
-| 1.2.62 | -4608341446948126581 | 0xc00be1debaf2808bL | |
-| 1.2.67 | -5885964883385605994L | 0xae50da1fad60a096L | |
 | 1.2.67 | -831789045734283466L | 0xf474e44518f26736L | |
-| 1.2.67 | 5474268165959054640L | 0x4bf881e49d37f530L | |
 
 ### 内置白名单
 
@@ -291,3 +290,4 @@ PS: `org.springframework.security.web.savedrequest.DefaultSavedRequest` 在该�
 - @Kevin-sa [https://github.com/LeadroyaL/fastjson-blacklist/pull/7](https://github.com/LeadroyaL/fastjson-blacklist/pull/7)
 - [https://m.weibo.cn/detail/4505978526222190](https://m.weibo.cn/detail/4505978526222190)
 - @Ramos-dev [https://github.com/LeadroyaL/fastjson-blacklist/issues/8](https://github.com/LeadroyaL/fastjson-blacklist/issues/8)
+- @Ramos-dev [https://github.com/LeadroyaL/fastjson-blacklist/issues/9](https://github.com/LeadroyaL/fastjson-blacklist/issues/9)
