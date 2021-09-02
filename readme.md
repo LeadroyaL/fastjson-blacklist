@@ -204,6 +204,19 @@ public class Main {
 | 1.2.70 | 7240293012336844478L | 0x647ab0224e149ebeL | org.apache.activemq.ActiveMQXAConnectionFactory |
 | 1.2.70 | 7347653049056829645L | 0x65f81b84c1d920cdL | org.apache.commons.jelly. |
 | 1.2.70 | 7617522210483516279L | 0x69b6e0175084b377L | org.apache.axis2.transport.jms. |
+| 1.2.71 | -4537258998789938600L | 0xc1086afae32e6258L | java.io.FileReader |
+| 1.2.71 | -4150995715611818742L | 0xc664b363baca050aL | java.io.ObjectInputStream |
+| 1.2.71 | -2995060141064716555L | 0xd66f68ab92e7fef5L | java.io.FileInputStream |
+| 1.2.71 | -965955008570215305L | 0xf2983d099d29b477L | java.io.ObjectOutputStream |
+| 1.2.71 | -219577392946377768L | 0xfcf3e78644b98bd8L | java.io.DataOutputStream |
+| 1.2.71 | 2622551729063269307L | x24652ce717e713bbL | java.io.PrintWriter |
+| 1.2.71 | 2930861374593775110L | 0x28ac82e44e933606L | java.io.Buffered |
+| 1.2.71 | 4000049462512838776L | 0x378307cb0111e878L | java.io.InputStreamReader |
+| 1.2.71 | 4193204392725694463L | 0x3a31412dbb05c7ffL | java.io.OutputStreamWriter |
+| 1.2.71 | 5545425291794704408L | 0x4cf54eec05e3e818L | java.io.FileWriter |
+| 1.2.71 | 6584624952928234050L | 0x5b6149820275ea42L | java.io.FileOutputStream |
+| 1.2.71 | 7045245923763966215L | 0x61c5bdd721385107L | java.io.DataInputStream |
+
 
 ### 目前未知的列表
 
@@ -211,6 +224,7 @@ public class Main {
 |---|---|---|---|
 | 1.2.42 | 33238344207745342 | 0x761619136cc13eL | |
 | 1.2.67 | -831789045734283466L | 0xf474e44518f26736L | |
+| 1.2.71 | 3452379460455804429L | 0x2fe950d3ea52ae0dL | |
 
 ### 内置白名单
 
