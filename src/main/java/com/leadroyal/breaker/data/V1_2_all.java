@@ -36,5 +36,6 @@ public class V1_2_all {
         add(V1_2_68.getData());
         add(V1_2_69.getData());
         add(V1_2_70.getData());
+        add(V1_2_71.getData());
     }};
 }
