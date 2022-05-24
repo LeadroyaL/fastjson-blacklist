@@ -216,6 +216,27 @@ public class Main {
 | 1.2.71 | 5545425291794704408L | 0x4cf54eec05e3e818L | java.io.FileWriter |
 | 1.2.71 | 6584624952928234050L | 0x5b6149820275ea42L | java.io.FileOutputStream |
 | 1.2.71 | 7045245923763966215L | 0x61c5bdd721385107L | java.io.DataInputStream |
+| 1.2.83 | -8754006975464705441L | 0x868385095a22725fL | org.apache.commons.io. |
+| 1.2.83 | -8382625455832334425L | 0x8baaee8f9bf77fa7L | org.mvel2. |
+| 1.2.83 | -6088208984980396913L | 0xab82562f53e6e48fL | kotlin.reflect. |
+| 1.2.83 | -4733542790109620528L | 0xbe4f13e96a6796d0L | com.googlecode.aviator. |
+| 1.2.83 | -1363634950764737555L | 0xed13653cb45c4bedL | org.aspectj. |
+| 1.2.83 | -803541446955902575L | 0xf4d93f4fb3e3d991L | org.dom4j. |
+| 1.2.83 | 860052378298585747L | 0xbef8514d0b79293L | org.apache.commons.cli. |
+| 1.2.83 | 1268707909007641340L | 0x119b5b1f10210afcL | com.google.common.eventbus. |
+| 1.2.83 | 3058452313624178956L | 0x2a71ce2cc40a710cL | org.thymeleaf. |
+| 1.2.83 | 3740226159580918099L | 0x33e7f3e02571b153L | org.junit. |
+| 1.2.83 | 3977090344859527316L | 0x37317698dcfce894L | org.mockito.asm. |
+| 1.2.83 | 4319304524795015394L | 0x3bf14094a524f0e2L | com.google.common.io. |
+| 1.2.83 | 5120543992130540564L | 0x470fd3a18bb39414L | org.mockito.runners. |
+| 1.2.83 | 5916409771425455946L | 0x521b4f573376df4aL | org.mockito.cglib. |
+| 1.2.83 | 6090377589998869205L | 0x54855e265fe1dad5L | com.google.common.reflect. |
+| 1.2.83 | 7164889056054194741L | 0x636ecca2a131b235L | org.mockito.stubbing. |
+| 1.2.83 | 8711531061028787095L | 0x78e5935826671397L | org.apache.commons.codec. |
+| 1.2.83 | 8735538376409180149L | 0x793addded7a967f5L | ognl. |
+| 1.2.83 | 8861402923078831179L | 0x7afa070241b8cc4bL | com.google.common.util.concurrent. |
+| 1.2.83 | 9140416208800006522L | 0x7ed9481d28bf417aL | java.awt.i |
+| 1.2.83 | 9144212112462101475L | 0x7ee6c477da20bbe3L | com.google.common.net. |
 
 
 ### 目前未知的列表
@@ -225,6 +246,10 @@ public class Main {
 | 1.2.42 | 33238344207745342 | 0x761619136cc13eL | |
 | 1.2.67 | -831789045734283466L | 0xf474e44518f26736L | |
 | 1.2.71 | 3452379460455804429L | 0x2fe950d3ea52ae0dL | |
+| 1.2.83 | -8614556368991373401L | 0x8872f29fd0b0b7a7L | |
+| 1.2.83 | -3750763034362895579L | 0xcbf29ce484222325L | |
+| 1.2.83 | -1800035667138631116L | 0xe704fd19052b2a34L | |
+| 1.2.83 | 4215053018660518963L | 0x3a7ee0635eb2bc33L | |
 
 ### 内置白名单
 
