@@ -246,6 +246,14 @@ public class Main {
 | 1.2.42 | 33238344207745342 | 0x761619136cc13eL | |
 | 1.2.67 | -831789045734283466L | 0xf474e44518f26736L | |
 | 1.2.71 | 3452379460455804429L | 0x2fe950d3ea52ae0dL | |
+| 1.2.78 | -8614556368991373401L | 0x8872f29fd0b0b7a7L | |
+| 1.2.78 | -5472097725414717105L | 0xb40f341c746ec94fL | |
+| 1.2.78 | -3750763034362895579L | 0xcbf29ce484222325L | |
+| 1.2.78 | -1800035667138631116L | 0xe704fd19052b2a34L | |
+| 1.2.78 | -831789045734283466L | 0xf474e44518f26736L | |
+| 1.2.78 | 33238344207745342L | 0x761619136cc13eL | |
+| 1.2.78 | 3452379460455804429L | 0x2fe950d3ea52ae0dL | |
+| 1.2.78 | 4215053018660518963L | 0x3a7ee0635eb2bc33L | |
 | 1.2.83 | -8614556368991373401L | 0x8872f29fd0b0b7a7L | |
 | 1.2.83 | -3750763034362895579L | 0xcbf29ce484222325L | |
 | 1.2.83 | -1800035667138631116L | 0xe704fd19052b2a34L | |
@@ -330,3 +338,4 @@ PS: `org.springframework.security.web.savedrequest.DefaultSavedRequest` 在该�
 - [https://m.weibo.cn/detail/4505978526222190](https://m.weibo.cn/detail/4505978526222190)
 - @Ramos-dev [https://github.com/LeadroyaL/fastjson-blacklist/issues/8](https://github.com/LeadroyaL/fastjson-blacklist/issues/8)
 - @Ramos-dev [https://github.com/LeadroyaL/fastjson-blacklist/issues/9](https://github.com/LeadroyaL/fastjson-blacklist/issues/9)
+- @idealzh [https://github.com/LeadroyaL/fastjson-blacklist/pull/14](https://github.com/LeadroyaL/fastjson-blacklist/pull/14)
